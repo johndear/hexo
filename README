@@ -1,1 +1,7 @@
-11111111
+Hexo 静态博客使用指南 http://www.jianshu.com/p/73779eacb494
+
+当前主题：https://github.com/LingyuCoder/ly
+
+依赖：
+npm install -g gulp
+npm install -g webpack
